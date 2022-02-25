@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Mr. VVilliam Plessington, who was executed at Chester for being a priest of the Church of Rome, July 19, 1679</title>
+            <author>Plessington, William, d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55141</idno>
+            <idno type="STC">Wing P2567</idno>
+            <idno type="STC">ESTC R229248</idno>
+            <idno type="EEBO-CITATION">13734167</idno>
+            <idno type="OCLC">ocm 13734167</idno>
+            <idno type="VID">101617</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101617)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Mr. VVilliam Plessington, who was executed at Chester for being a priest of the Church of Rome, July 19, 1679</title>
+                  <author>Plessington, William, d. 1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probable place of publication from Catalogue of English broadsides, 1505-1897, 1968.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plessington, William, d. 1679.</term>
+               <term>Catholic Church --  England --  Clergy --  Biography.</term>
+               <term>Catholic Church --  England --  History --  17th century.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:101617:1"/>
+            <head>THE SPEECH OF <hi>Mr. VVilliam Pleſſington.</hi> Who was
+EXECUTED at CHESTER (For being a Prieſt of the Church of <hi>Rome) July</hi>
+19. 1679.</head>
+            <opener>
+               <salute>Dear Countrymen.</salute>
+            </opener>
+            <p>I Am here to be executed, neither for <hi>Theft, Murder,</hi>
+nor any <hi>thing</hi> a<g ref="char:EOLhyphen"/>gainſt the <hi>Law</hi> of <hi>God,</hi> nor any
+fact or <hi>Doctrine</hi> inconſiſtent with <hi>Monarchy</hi> or <hi>Civil
+Government,</hi> I ſuppoſe ſeveral now preſent heard my <hi>Tryal</hi>
+the laſt <hi>Aſſizes,</hi> and can teſtify that nothing was laid to my
+charge but <hi>Prieſt-hood,</hi> and I am ſure that you will find that
+<hi>Prieſt-hood</hi> is neither againſt the <hi>Law of God</hi> nor
+<hi>Monarchy,</hi> or <hi>Civil Government.</hi> If you will con<g ref="char:EOLhyphen"/>ſult either
+the <hi>Old or New Testament,</hi> (for it is the Baſis of Religion) for no
+<hi>Prieſt</hi> no <hi>Religion, S. Paul</hi> tells us in Hebrews, the 7. and
+12. The <hi>Priest-hood</hi> being changed, there is made alſo of
+neceſſity a change of the <hi>Law,</hi> and conſequently the
+<hi>Priest-hood</hi> being aboliſh't, the <hi>Law</hi> and <hi>Religion</hi>
+is quite gone.</p>
+            <p>But I know it will be ſaid, that a <hi>Prieſt</hi> ordayned
+by authority derived from the <hi>See of Rome,</hi> is by the <hi>Law of the
+Nation</hi> to die as a <hi>Traytor,</hi> but if that be ſo what muſt
+become of all the <hi>Clergy-men</hi> of the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> for
+the firſt <hi>Protestant Biſhops,</hi> had their <hi>Ordination</hi> from
+thoſe of the <hi>Church of Rome,</hi> or none at all, as appears by their own
+writers, ſo that <hi>Ordination</hi> comes derivatively to thoſe now
+living.</p>
+            <p>As in the <hi>Primitive</hi> times, <hi>Christians</hi> were
+eſteemed <hi>Traytors;</hi> and ſuf<g ref="char:EOLhyphen"/>fered as ſuch by <hi>National
+Laws,</hi> ſo are the <hi>Priests of the Roman Church,</hi> here eſteemed
+and, ſuffer as ſuch. But as <hi>Chriſtianity</hi> then was not againſt
+the <hi>Law of God, Monarchy, or Civil Policy,</hi> ſo now there is not any
+one <hi>Point</hi> of the <hi>Roman Catholique Faith,</hi> (of which <hi>Faith
+I am</hi>) that is inconſiſtent there<g ref="char:EOLhyphen"/>with, as is evident by induction in
+each ſeveral Point.</p>
+            <p>
+               <pb facs="tcp:101617:2"/>That the <hi>Pope</hi>
+hath power to depoſe or give licenſe to <hi>Murder Princes,</hi> is no
+point of our <hi>Beliefe.</hi> And I proteſt in the ſight of <hi>God</hi>
+and the <hi>Court of Heaven,</hi> that I am abſolutely innocent of the
+<hi>Plot</hi> ſo much diſcoureſd of, and abhor ſuch bloody and damnable
+deſigns, and although it be Nine Weeks ſince I was ſentenced to die,
+there is not any thing of that laid to my charge, ſo that I may well take
+comfort in <hi>S. Peters</hi> words, 1 <hi>Pet.</hi> 14, 15, 16. <hi>Let none
+of you ſuffer as a Murderer, or as a Thief, or as an Evil doer, or as a
+Buſie Body in other mens matters, yet if any man ſuffer as a Christian let
+him not be aſhamed or Sorry.</hi> I have deſerved a worſe death, for
+though I have been a faithful and true Subject to my <hi>King,</hi> I have been
+a grievous ſinner againſt <hi>God; Theeves</hi> and <hi>Robbers</hi> that
+Rob on High<g ref="char:EOLhyphen"/>ways, would have ſerved <hi>God</hi> in a greater perfection then
+I have done had they received ſo many favours and graces from him as I
+have.</p>
+            <p>But as there was never ſinner who truly repented and heartily
+called to <hi>Jeſus</hi> for mercy, to whom he did not ſhew mercy; ſo
+<hi>I</hi> hope by the <hi>merits</hi> of his <hi>Paſſion,</hi> he will
+have mercy on me, who am heartily ſorry that ever I offended him.</p>
+            <p>Bear witneſs good hearers, that <hi>I</hi> profeſs that
+<hi>I</hi> undoubtedly and firm<g ref="char:EOLhyphen"/>ly believe all the <hi>Articles</hi> of the
+<hi>Roman Catholique Faith,</hi> and for the truth of any of them, (by the
+aſſiſtance of God) <hi>I</hi> am willing to die, and I had rather die
+then doubt of any Point of <hi>Faith,</hi> taught by our <hi>Holy Mother</hi>
+the <hi>Roman Catholique Church.</hi>
+            </p>
+            <p>In what condition <hi>Margaret Plat</hi> one of the chiefeſt
+witneſſes a<g ref="char:EOLhyphen"/>gainſt me was before, and after ſhe was with me, let her
+neereſt relations declare.</p>
+            <p>
+               <hi>George Maſſey,</hi> another witneſs ſwore falſely,
+when he ſwore, <hi>I</hi> gave him the Sacrament, and ſaid Maſs at the
+time and place he mentioned, and <hi>I</hi> verily think that he never ſpoke
+to me, or <hi>I</hi> to him, or ſaw each other but at the
+<hi>Aſſizes</hi> week; the Third witneſs <hi>Robert Wood</hi> was
+ſud<g ref="char:EOLhyphen"/>denly killed, but of the Dead why ſhould <hi>I</hi> ſpeak? Theſe
+were all the witneſſes againſt me, unleſs thoſe that only declared
+what they heard from others. <hi>I</hi> heartily and freely forgive all that
+have been or are any way inſtrumental to my Death, and heartily deſire that
+thoſe that are living may heartily repent.</p>
+            <p>God bleſs the <hi>King</hi> and the <hi>Royal Family</hi> and
+grant his <hi>Majeſty</hi> a proſ<g ref="char:EOLhyphen"/>perous <hi>Reign</hi> here and a
+<hi>Crown</hi> of glory hereafter, God grant peace to the Subjects, and that
+they live and die in true <hi>Faith, Hope,</hi> and <hi>Charity,</hi> That
+which remains is, that <hi>I</hi> recomend my ſelf to the mercy of my
+<hi>Jeſus</hi> by whoſe merits <hi>I</hi> hope for mercy, O <hi>Jeſu</hi>
+be to me a <hi>Jeſus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
